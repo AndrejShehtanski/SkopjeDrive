@@ -1,0 +1,30 @@
+@model List<Car>
+@{
+    ViewData["Title"] = "Fleet & Services";
+}
+<section class="container page">
+    <h1>@Html.T("ServicesTitle")</h1>
+    <p>@Html.T("ServicesIntro")</p>
+
+    <div class="card-grid">
+        @foreach (var car in Model)
+        {
+            <div class="card">
+                <div class="card-icon"><img class="car-photo" src="@car.ImageURL" alt="@car.Brand @car.Model" /></div>
+                <h3>@car.Brand @car.Model</h3>
+                <p>@Html.T("Cat" + car.Category) · @car.Seats @Html.T("SeatsLabel") · @Html.T("Trans" + car.Transmission)</p>
+                <p class="price">€@car.PricePerDay / @Html.T("PerDay")</p>
+                <a class="btn btn-primary btn-small" href="/Contact">@Html.T("Reserve")</a>
+            </div>
+        }
+    </div>
+
+    <h2>@Html.T("AdditionalServices")</h2>
+    <ul class="service-list">
+        <li>@Html.T("Service1")</li>
+        <li>@Html.T("Service2")</li>
+        <li>@Html.T("Service3")</li>
+        <li>@Html.T("Service4")</li>
+        <li>@Html.T("Service5")</li>
+    </ul>
+</section>

@@ -1,0 +1,18 @@
+@model List<TeamMember>
+@{
+    ViewData["Title"] = "Our Team";
+}
+<section class="container page">
+    <h1>@Html.T("TeamHeading")</h1>
+    <div class="card-grid">
+        @foreach (var m in Model)
+        {
+            <div class="card team-card">
+                <div class="avatar">@m.Initials</div>
+                <h3>@m.Name</h3>
+                <p class="role">@Html.T(m.Role)</p>
+                <p>@Html.T(m.Bio)</p>
+            </div>
+        }
+    </div>
+</section>

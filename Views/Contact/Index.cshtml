@@ -1,0 +1,55 @@
+@model ContactFormModel
+@{
+    ViewData["Title"] = Html.T("NavContact");
+}
+<section class="container page contact-page">
+    <h1>@Html.T("ContactTitle")</h1>
+
+    @if (TempData["ContactSuccess"] != null)
+    {
+        <div class="alert alert-success">@Html.T("ContactSuccess")</div>
+    }
+
+    <div class="contact-grid">
+        <form asp-action="Index" asp-controller="Contact" method="post" class="contact-form">
+            @foreach (var error in Html.ValidationSummaryT())
+            {
+                <div class="text-danger" role="alert">@error</div>
+            }
+            <div class="form-group">
+                <label asp-for="Name">@Html.T("ContactFullName")</label>
+                <input asp-for="Name" class="form-control" />
+                <span class="text-danger">@Html.ValidationMessageT(nameof(Model.Name))</span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email">@Html.T("ContactEmail")</label>
+                <input asp-for="Email" class="form-control" />
+                <span class="text-danger">@Html.ValidationMessageT(nameof(Model.Email))</span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Phone">@Html.T("ContactPhone")</label>
+                <input asp-for="Phone" class="form-control" />
+                <span class="text-danger">@Html.ValidationMessageT(nameof(Model.Phone))</span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Message">@Html.T("ContactMessage")</label>
+                <textarea asp-for="Message" class="form-control" rows="5"></textarea>
+                <span class="text-danger">@Html.ValidationMessageT(nameof(Model.Message))</span>
+            </div>
+            <button type="submit" class="btn btn-primary">@Html.T("ContactSend")</button>
+        </form>
+
+        <div class="contact-info">
+            <h2>@Html.T("ContactInformation")</h2>
+            <p>📍 @Html.T("ContactAddress")</p>
+            <p>📞 +389 76 711 432</p>
+            <p>✉️ info@skopjedrive.mk</p>
+            <p>🕒 @Html.T("ContactHours")</p>
+            <iframe
+                src="https://maps.google.com/maps?q=Skopje%20North%20Macedonia&t=&z=13&ie=UTF8&iwloc=&output=embed"
+                title="@Html.T("ContactMapTitle")"
+                width="100%" height="250" style="border:0;" loading="lazy">
+            </iframe>
+        </div>
+    </div>
+</section>

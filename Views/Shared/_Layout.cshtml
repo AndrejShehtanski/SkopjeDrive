@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="@Html.CurrentCulture()">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SkopjeDrive - @ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <header class="site-header">
+        <div class="container header-inner">
+            <a class="brand" href="/" aria-label="SkopjeDrive home">
+                <img src="~/images/skopjedrive-logo.png" alt="SkopjeDrive" asp-append-version="true" />
+            </a>
+
+            <nav class="main-nav">
+                <a href="/">@Html.T("NavHome")</a>
+                <a href="/Home/About">@Html.T("NavAbout")</a>
+                <a href="/Services">@Html.T("NavServices")</a>
+                <a href="/Team">@Html.T("NavTeam")</a>
+                <a href="/News">@Html.T("NavNews")</a>
+                <a href="/Contact">@Html.T("NavContact")</a>
+            </nav>
+
+            <div class="lang-switch">
+                <a href="/Language/SetLanguage?culture=en&returnUrl=@Context.Request.Path">EN</a>
+                <span>|</span>
+                <a href="/Language/SetLanguage?culture=mk&returnUrl=@Context.Request.Path">MK</a>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        @RenderBody()
+    </main>
+
+    <footer class="site-footer">
+        <div class="container footer-inner">
+            <div>
+                <strong>SkopjeDrive</strong>
+                <p>Bul. Ilinden 15, 1000 Skopje, North Macedonia</p>
+                <p>+389 2 123 456 · info@skopjedrive.mk</p>
+            </div>
+            <div>
+                <a href="/Home/Privacy">@Html.T("CookiePolicy")</a>
+            </div>
+            <div>
+                &copy; @DateTime.Now.Year SkopjeDrive. @Html.T("FooterRights")
+            </div>
+        </div>
+    </footer>
+
+    <partial name="_CookieConsentPartial" />
+
+    <script src="~/js/site.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

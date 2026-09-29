@@ -1,0 +1,11 @@
+@model NewsPost
+@{
+    ViewData["Title"] = Model.Title;
+    var culture = new System.Globalization.CultureInfo(Html.CurrentCulture());
+}
+<section class="container page">
+    <a href="/News">@Html.T("BackToNews")</a>
+    <h1>@Html.T($"NewsTitle{Model.Id}")</h1>
+    <p class="news-date">@Model.Date.ToString("dd MMM yyyy", culture)</p>
+    <p>@Html.T($"NewsContent{Model.Id}")</p>
+</section>

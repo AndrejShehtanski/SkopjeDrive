@@ -1,0 +1,198 @@
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/bin/Debug/net10.0/appsettings.Development.json
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/bin/Debug/net10.0/appsettings.json
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/bin/Debug/net10.0/SkopjeDrive.staticwebassets.runtime.json
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/bin/Debug/net10.0/SkopjeDrive.staticwebassets.endpoints.json
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/bin/Debug/net10.0/SkopjeDrive
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/bin/Debug/net10.0/SkopjeDrive.deps.json
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/bin/Debug/net10.0/SkopjeDrive.runtimeconfig.json
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/bin/Debug/net10.0/SkopjeDrive.dll
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/bin/Debug/net10.0/SkopjeDrive.pdb
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/obj/Debug/net10.0/SkopjeDrive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/obj/Debug/net10.0/SkopjeDrive.AssemblyInfoInputs.cache
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/obj/Debug/net10.0/SkopjeDrive.AssemblyInfo.cs
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/obj/Debug/net10.0/SkopjeDrive.csproj.CoreCompileInputs.cache
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/obj/Debug/net10.0/SkopjeDrive.MvcApplicationPartsAssemblyInfo.cache
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/obj/Debug/net10.0/SkopjeDrive.RazorAssemblyInfo.cache
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/obj/Debug/net10.0/SkopjeDrive.RazorAssemblyInfo.cs
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/obj/Debug/net10.0/scopedcss/bundle/SkopjeDrive.styles.css
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/obj/Debug/net10.0/compressed/5kd7frcsjc-{0}-0es7hyfq2l-0es7hyfq2l.gz
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/obj/Debug/net10.0/staticwebassets.build.json
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/obj/Debug/net10.0/staticwebassets.development.json
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/obj/Debug/net10.0/swae.build.ex.cache
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/obj/Debug/net10.0/SkopjeDrive.dll
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/obj/Debug/net10.0/refint/SkopjeDrive.dll
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/obj/Debug/net10.0/SkopjeDrive.pdb
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/obj/Debug/net10.0/SkopjeDrive.genruntimeconfig.cache
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/obj/Debug/net10.0/ref/SkopjeDrive.dll
+/Users/andrejsehtanski/Downloads/Skopje Drive 12/obj/Debug/net10.0/compressed/q75by1vxpc-{0}-kpjl9oqy39-kpjl9oqy39.gz
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/bin/Debug/net10.0/appsettings.Development.json
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/bin/Debug/net10.0/appsettings.json
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/bin/Debug/net10.0/SkopjeDrive.staticwebassets.endpoints.json
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/bin/Debug/net10.0/SkopjeDrive.staticwebassets.runtime.json
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/bin/Debug/net10.0/SkopjeDrive
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/bin/Debug/net10.0/SkopjeDrive.deps.json
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/bin/Debug/net10.0/SkopjeDrive.runtimeconfig.json
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/bin/Debug/net10.0/SkopjeDrive.dll
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/bin/Debug/net10.0/SkopjeDrive.pdb
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/obj/Debug/net10.0/SkopjeDrive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/obj/Debug/net10.0/SkopjeDrive.AssemblyInfoInputs.cache
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/obj/Debug/net10.0/SkopjeDrive.AssemblyInfo.cs
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/obj/Debug/net10.0/SkopjeDrive.csproj.CoreCompileInputs.cache
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/obj/Debug/net10.0/SkopjeDrive.MvcApplicationPartsAssemblyInfo.cache
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/obj/Debug/net10.0/SkopjeDrive.RazorAssemblyInfo.cache
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/obj/Debug/net10.0/SkopjeDrive.RazorAssemblyInfo.cs
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/obj/Debug/net10.0/scopedcss/bundle/SkopjeDrive.styles.css
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/obj/Debug/net10.0/compressed/5kd7frcsjc-{0}-0es7hyfq2l-0es7hyfq2l.gz
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/obj/Debug/net10.0/staticwebassets.build.json
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/obj/Debug/net10.0/staticwebassets.development.json
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/obj/Debug/net10.0/swae.build.ex.cache
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/obj/Debug/net10.0/SkopjeDrive.dll
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/obj/Debug/net10.0/refint/SkopjeDrive.dll
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/obj/Debug/net10.0/SkopjeDrive.pdb
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/obj/Debug/net10.0/SkopjeDrive.genruntimeconfig.cache
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/obj/Debug/net10.0/ref/SkopjeDrive.dll
+/Users/andrejsehtanski/Desktop/Skopje Drive 12/obj/Debug/net10.0/compressed/q75by1vxpc-{0}-id257j9c24-id257j9c24.gz
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/bin/Debug/net10.0/appsettings.Development.json
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/bin/Debug/net10.0/appsettings.json
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/bin/Debug/net10.0/SkopjeDrive.staticwebassets.endpoints.json
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/bin/Debug/net10.0/SkopjeDrive.staticwebassets.runtime.json
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/bin/Debug/net10.0/SkopjeDrive
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/bin/Debug/net10.0/SkopjeDrive.deps.json
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/bin/Debug/net10.0/SkopjeDrive.runtimeconfig.json
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/bin/Debug/net10.0/SkopjeDrive.dll
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/bin/Debug/net10.0/SkopjeDrive.pdb
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/obj/Debug/net10.0/SkopjeDrive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/obj/Debug/net10.0/SkopjeDrive.AssemblyInfoInputs.cache
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/obj/Debug/net10.0/SkopjeDrive.AssemblyInfo.cs
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/obj/Debug/net10.0/SkopjeDrive.csproj.CoreCompileInputs.cache
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/obj/Debug/net10.0/SkopjeDrive.MvcApplicationPartsAssemblyInfo.cache
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/obj/Debug/net10.0/SkopjeDrive.RazorAssemblyInfo.cache
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/obj/Debug/net10.0/SkopjeDrive.RazorAssemblyInfo.cs
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/obj/Debug/net10.0/scopedcss/bundle/SkopjeDrive.styles.css
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/obj/Debug/net10.0/compressed/q75by1vxpc-{0}-id257j9c24-id257j9c24.gz
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/obj/Debug/net10.0/compressed/5kd7frcsjc-{0}-0es7hyfq2l-0es7hyfq2l.gz
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/obj/Debug/net10.0/staticwebassets.build.json
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/obj/Debug/net10.0/staticwebassets.development.json
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/obj/Debug/net10.0/swae.build.ex.cache
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/obj/Debug/net10.0/SkopjeDrive.dll
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/obj/Debug/net10.0/refint/SkopjeDrive.dll
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/obj/Debug/net10.0/SkopjeDrive.pdb
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/obj/Debug/net10.0/SkopjeDrive.genruntimeconfig.cache
+/Users/andrejsehtanski/Downloads/Skopje_Drive_12_fixed 3/obj/Debug/net10.0/ref/SkopjeDrive.dll
+/home/ken7aki/Desktop/pero/bin/Debug/net10.0/appsettings.Development.json
+/home/ken7aki/Desktop/pero/bin/Debug/net10.0/appsettings.json
+/home/ken7aki/Desktop/pero/bin/Debug/net10.0/SkopjeDrive.staticwebassets.runtime.json
+/home/ken7aki/Desktop/pero/bin/Debug/net10.0/SkopjeDrive.staticwebassets.endpoints.json
+/home/ken7aki/Desktop/pero/bin/Debug/net10.0/SkopjeDrive
+/home/ken7aki/Desktop/pero/bin/Debug/net10.0/SkopjeDrive.deps.json
+/home/ken7aki/Desktop/pero/bin/Debug/net10.0/SkopjeDrive.runtimeconfig.json
+/home/ken7aki/Desktop/pero/bin/Debug/net10.0/SkopjeDrive.dll
+/home/ken7aki/Desktop/pero/bin/Debug/net10.0/SkopjeDrive.pdb
+/home/ken7aki/Desktop/pero/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/ken7aki/Desktop/pero/obj/Debug/net10.0/SkopjeDrive.GeneratedMSBuildEditorConfig.editorconfig
+/home/ken7aki/Desktop/pero/obj/Debug/net10.0/SkopjeDrive.AssemblyInfoInputs.cache
+/home/ken7aki/Desktop/pero/obj/Debug/net10.0/SkopjeDrive.AssemblyInfo.cs
+/home/ken7aki/Desktop/pero/obj/Debug/net10.0/SkopjeDrive.csproj.CoreCompileInputs.cache
+/home/ken7aki/Desktop/pero/obj/Debug/net10.0/SkopjeDrive.MvcApplicationPartsAssemblyInfo.cache
+/home/ken7aki/Desktop/pero/obj/Debug/net10.0/SkopjeDrive.RazorAssemblyInfo.cache
+/home/ken7aki/Desktop/pero/obj/Debug/net10.0/SkopjeDrive.RazorAssemblyInfo.cs
+/home/ken7aki/Desktop/pero/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/home/ken7aki/Desktop/pero/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/home/ken7aki/Desktop/pero/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/home/ken7aki/Desktop/pero/obj/Debug/net10.0/scopedcss/bundle/SkopjeDrive.styles.css
+/home/ken7aki/Desktop/pero/obj/Debug/net10.0/compressed/5kd7frcsjc-{0}-0es7hyfq2l-0es7hyfq2l.gz
+/home/ken7aki/Desktop/pero/obj/Debug/net10.0/staticwebassets.build.json
+/home/ken7aki/Desktop/pero/obj/Debug/net10.0/staticwebassets.build.json.cache
+/home/ken7aki/Desktop/pero/obj/Debug/net10.0/staticwebassets.development.json
+/home/ken7aki/Desktop/pero/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/home/ken7aki/Desktop/pero/obj/Debug/net10.0/swae.build.ex.cache
+/home/ken7aki/Desktop/pero/obj/Debug/net10.0/SkopjeDrive.dll
+/home/ken7aki/Desktop/pero/obj/Debug/net10.0/refint/SkopjeDrive.dll
+/home/ken7aki/Desktop/pero/obj/Debug/net10.0/SkopjeDrive.pdb
+/home/ken7aki/Desktop/pero/obj/Debug/net10.0/SkopjeDrive.genruntimeconfig.cache
+/home/ken7aki/Desktop/pero/obj/Debug/net10.0/ref/SkopjeDrive.dll
+/home/ken7aki/Desktop/pero/obj/Debug/net10.0/compressed/q75by1vxpc-{0}-wzf09dmekq-wzf09dmekq.gz
+/Users/andrejsehtanski/Downloads/pero/bin/Debug/net10.0/appsettings.Development.json
+/Users/andrejsehtanski/Downloads/pero/bin/Debug/net10.0/appsettings.json
+/Users/andrejsehtanski/Downloads/pero/bin/Debug/net10.0/SkopjeDrive.staticwebassets.runtime.json
+/Users/andrejsehtanski/Downloads/pero/bin/Debug/net10.0/SkopjeDrive.staticwebassets.endpoints.json
+/Users/andrejsehtanski/Downloads/pero/bin/Debug/net10.0/SkopjeDrive
+/Users/andrejsehtanski/Downloads/pero/bin/Debug/net10.0/SkopjeDrive.deps.json
+/Users/andrejsehtanski/Downloads/pero/bin/Debug/net10.0/SkopjeDrive.runtimeconfig.json
+/Users/andrejsehtanski/Downloads/pero/bin/Debug/net10.0/SkopjeDrive.dll
+/Users/andrejsehtanski/Downloads/pero/bin/Debug/net10.0/SkopjeDrive.pdb
+/Users/andrejsehtanski/Downloads/pero/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/andrejsehtanski/Downloads/pero/obj/Debug/net10.0/SkopjeDrive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrejsehtanski/Downloads/pero/obj/Debug/net10.0/SkopjeDrive.AssemblyInfoInputs.cache
+/Users/andrejsehtanski/Downloads/pero/obj/Debug/net10.0/SkopjeDrive.AssemblyInfo.cs
+/Users/andrejsehtanski/Downloads/pero/obj/Debug/net10.0/SkopjeDrive.csproj.CoreCompileInputs.cache
+/Users/andrejsehtanski/Downloads/pero/obj/Debug/net10.0/SkopjeDrive.MvcApplicationPartsAssemblyInfo.cache
+/Users/andrejsehtanski/Downloads/pero/obj/Debug/net10.0/SkopjeDrive.RazorAssemblyInfo.cache
+/Users/andrejsehtanski/Downloads/pero/obj/Debug/net10.0/SkopjeDrive.RazorAssemblyInfo.cs
+/Users/andrejsehtanski/Downloads/pero/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/andrejsehtanski/Downloads/pero/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/andrejsehtanski/Downloads/pero/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/andrejsehtanski/Downloads/pero/obj/Debug/net10.0/scopedcss/bundle/SkopjeDrive.styles.css
+/Users/andrejsehtanski/Downloads/pero/obj/Debug/net10.0/compressed/q75by1vxpc-{0}-wzf09dmekq-wzf09dmekq.gz
+/Users/andrejsehtanski/Downloads/pero/obj/Debug/net10.0/compressed/5kd7frcsjc-{0}-0es7hyfq2l-0es7hyfq2l.gz
+/Users/andrejsehtanski/Downloads/pero/obj/Debug/net10.0/staticwebassets.build.json
+/Users/andrejsehtanski/Downloads/pero/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/andrejsehtanski/Downloads/pero/obj/Debug/net10.0/staticwebassets.development.json
+/Users/andrejsehtanski/Downloads/pero/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/andrejsehtanski/Downloads/pero/obj/Debug/net10.0/swae.build.ex.cache
+/Users/andrejsehtanski/Downloads/pero/obj/Debug/net10.0/SkopjeDrive.dll
+/Users/andrejsehtanski/Downloads/pero/obj/Debug/net10.0/refint/SkopjeDrive.dll
+/Users/andrejsehtanski/Downloads/pero/obj/Debug/net10.0/SkopjeDrive.pdb
+/Users/andrejsehtanski/Downloads/pero/obj/Debug/net10.0/SkopjeDrive.genruntimeconfig.cache
+/Users/andrejsehtanski/Downloads/pero/obj/Debug/net10.0/ref/SkopjeDrive.dll
+/Users/andrejsehtanski/Desktop/SkopjeDrive/bin/Debug/net10.0/appsettings.Development.json
+/Users/andrejsehtanski/Desktop/SkopjeDrive/bin/Debug/net10.0/appsettings.json
+/Users/andrejsehtanski/Desktop/SkopjeDrive/bin/Debug/net10.0/SkopjeDrive.staticwebassets.endpoints.json
+/Users/andrejsehtanski/Desktop/SkopjeDrive/bin/Debug/net10.0/SkopjeDrive.staticwebassets.runtime.json
+/Users/andrejsehtanski/Desktop/SkopjeDrive/bin/Debug/net10.0/SkopjeDrive
+/Users/andrejsehtanski/Desktop/SkopjeDrive/bin/Debug/net10.0/SkopjeDrive.deps.json
+/Users/andrejsehtanski/Desktop/SkopjeDrive/bin/Debug/net10.0/SkopjeDrive.runtimeconfig.json
+/Users/andrejsehtanski/Desktop/SkopjeDrive/bin/Debug/net10.0/SkopjeDrive.dll
+/Users/andrejsehtanski/Desktop/SkopjeDrive/bin/Debug/net10.0/SkopjeDrive.pdb
+/Users/andrejsehtanski/Desktop/SkopjeDrive/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/andrejsehtanski/Desktop/SkopjeDrive/obj/Debug/net10.0/SkopjeDrive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrejsehtanski/Desktop/SkopjeDrive/obj/Debug/net10.0/SkopjeDrive.AssemblyInfoInputs.cache
+/Users/andrejsehtanski/Desktop/SkopjeDrive/obj/Debug/net10.0/SkopjeDrive.AssemblyInfo.cs
+/Users/andrejsehtanski/Desktop/SkopjeDrive/obj/Debug/net10.0/SkopjeDrive.csproj.CoreCompileInputs.cache
+/Users/andrejsehtanski/Desktop/SkopjeDrive/obj/Debug/net10.0/SkopjeDrive.MvcApplicationPartsAssemblyInfo.cache
+/Users/andrejsehtanski/Desktop/SkopjeDrive/obj/Debug/net10.0/SkopjeDrive.RazorAssemblyInfo.cache
+/Users/andrejsehtanski/Desktop/SkopjeDrive/obj/Debug/net10.0/SkopjeDrive.RazorAssemblyInfo.cs
+/Users/andrejsehtanski/Desktop/SkopjeDrive/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/andrejsehtanski/Desktop/SkopjeDrive/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/andrejsehtanski/Desktop/SkopjeDrive/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/andrejsehtanski/Desktop/SkopjeDrive/obj/Debug/net10.0/scopedcss/bundle/SkopjeDrive.styles.css
+/Users/andrejsehtanski/Desktop/SkopjeDrive/obj/Debug/net10.0/compressed/q75by1vxpc-{0}-wzf09dmekq-wzf09dmekq.gz
+/Users/andrejsehtanski/Desktop/SkopjeDrive/obj/Debug/net10.0/compressed/5kd7frcsjc-{0}-0es7hyfq2l-0es7hyfq2l.gz
+/Users/andrejsehtanski/Desktop/SkopjeDrive/obj/Debug/net10.0/staticwebassets.build.json
+/Users/andrejsehtanski/Desktop/SkopjeDrive/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/andrejsehtanski/Desktop/SkopjeDrive/obj/Debug/net10.0/staticwebassets.development.json
+/Users/andrejsehtanski/Desktop/SkopjeDrive/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/andrejsehtanski/Desktop/SkopjeDrive/obj/Debug/net10.0/swae.build.ex.cache
+/Users/andrejsehtanski/Desktop/SkopjeDrive/obj/Debug/net10.0/SkopjeDrive.dll
+/Users/andrejsehtanski/Desktop/SkopjeDrive/obj/Debug/net10.0/refint/SkopjeDrive.dll
+/Users/andrejsehtanski/Desktop/SkopjeDrive/obj/Debug/net10.0/SkopjeDrive.pdb
+/Users/andrejsehtanski/Desktop/SkopjeDrive/obj/Debug/net10.0/SkopjeDrive.genruntimeconfig.cache
+/Users/andrejsehtanski/Desktop/SkopjeDrive/obj/Debug/net10.0/ref/SkopjeDrive.dll

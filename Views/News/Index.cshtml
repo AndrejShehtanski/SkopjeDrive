@@ -1,0 +1,19 @@
+@model List<NewsPost>
+@{
+    ViewData["Title"] = "News";
+    var culture = new System.Globalization.CultureInfo(Html.CurrentCulture());
+}
+<section class="container page">
+    <h1>@Html.T("NewsHeading")</h1>
+    <div class="news-list">
+        @foreach (var post in Model)
+        {
+            <article class="news-item">
+                <h2><a href="/News/Details/@post.Id">@Html.T($"NewsTitle{post.Id}")</a></h2>
+                <p class="news-date">@post.Date.ToString("dd MMM yyyy", culture)</p>
+                <p>@Html.T($"NewsSummary{post.Id}")</p>
+                <a href="/News/Details/@post.Id">@Html.T("ReadMore")</a>
+            </article>
+        }
+    </div>
+</section>

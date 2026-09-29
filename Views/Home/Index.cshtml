@@ -1,0 +1,82 @@
+@model List<Car>
+@{
+    ViewData["Title"] = "Home";
+}
+<section class="hero">
+    <video class="hero-video" autoplay muted loop playsinline poster="@Url.Content("~/images/hero-poster.jpg")">
+        <source src="@Url.Content("~/Videos/hero.mp4")" type="video/mp4">
+    </video>
+    <div class="hero-overlay"></div>
+    <div class="container hero-content">
+        <h1>@Html.T("HeroTitle")</h1>
+        <p>@Html.T("HeroSubtitle")</p>
+        <div class="hero-actions">
+            <a class="btn btn-primary" href="/Contact">@Html.T("BookNow")</a>
+            <a class="btn btn-secondary" href="/Services">@Html.T("ViewFleet")</a>
+        </div>
+    </div>
+</section>
+
+<section class="container page">
+    <h2>@Html.T("FeaturedCars")</h2>
+    <div class="card-grid">
+        @foreach (var car in Model)
+        {
+            <div class="card">
+                <div class="card-icon"><img class="car-photo" src="@car.ImageURL" alt="@car.Brand @car.Model" /></div>
+                <h3>@car.Brand @car.Model</h3>
+                <p>@Html.T("Cat" + car.Category) · @car.Seats @Html.T("SeatsLabel") · @Html.T("Trans" + car.Transmission) · @car.Year </p>
+                <p class="price">€@car.PricePerDay / @Html.T("PerDay")</p>
+            </div>
+        }
+    </div>
+</section>
+
+<section class="container page why-us">
+    <div class="section-heading">
+        <h2>@Html.T("WhyChooseUs")</h2>
+        <p class="section-subtitle">@Html.T("WhyChooseSubtitle")</p>
+    </div>
+    <div class="feature-grid">
+        <div class="feature">
+            <div class="feature-img-wrap">
+                <img src="https://images.unsplash.com/photo-1643792801605-1f8081811439?w=900&amp;auto=format&amp;q=70" alt="@Html.T("Feature1Title")" loading="lazy" style="object-position: center;" />
+                <span class="feature-badge">@Html.T("Feature1Icon")</span>
+            </div>
+            <div class="feature-body">
+                <h3>@Html.T("Feature1Title")</h3>
+                <p>@Html.T("Feature1Desc")</p>
+            </div>
+        </div>
+        <div class="feature">
+            <div class="feature-img-wrap">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeMcj23625C8RVwruc7HQJ22pdxMdfNQyZ97jbU6r5xQ&s=10" alt="@Html.T("Feature2Title")" loading="lazy" style="object-position: center 20%;" />
+                <span class="feature-badge">@Html.T("Feature2Icon")</span>
+            </div>
+            <div class="feature-body">
+                <h3>@Html.T("Feature2Title")</h3>
+                <p>@Html.T("Feature2Desc")</p>
+            </div>
+        </div>
+        <div class="feature">
+            <div class="feature-img-wrap">
+                <img src="https://images.unsplash.com/photo-1672603585878-a22767b3a97c?w=900&amp;auto=format&amp;q=70" alt="@Html.T("Feature3Title")" loading="lazy" style="object-position: center 55%;" />
+                <span class="feature-badge">@Html.T("Feature3Icon")</span>
+            </div>
+            <div class="feature-body">
+                <h3>@Html.T("Feature3Title")</h3>
+                <p>@Html.T("Feature3Desc")</p>
+            </div>
+        </div>
+        <div class="feature">
+            <div class="feature-img-wrap">
+                <img src="https://images.unsplash.com/photo-1619431856706-ca2cc58258f6?w=900&amp;auto=format&amp;q=70" alt="@Html.T("Feature4Title")" loading="lazy" style="object-position: center 45%;" />
+                <span class="feature-badge">@Html.T("Feature4Icon")</span>
+            </div>
+            <div class="feature-body">
+                <h3>@Html.T("Feature4Title")</h3>
+                <p>@Html.T("Feature4Desc")</p>
+            </div>
+        </div>
+    </div>
+</section>
