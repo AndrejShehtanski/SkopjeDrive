@@ -1,0 +1,6 @@
+
+services:
+  skopjedrive:
+    build:
+      context: .
+      dockerfile: Dockerfile
